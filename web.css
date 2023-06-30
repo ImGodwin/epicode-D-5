@@ -1,0 +1,68 @@
+/* goole fonts imported here */
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@600;700&family=Open+Sans:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+/*  */
+
+body {
+  color: #393d41;
+  margin: 0;
+}
+
+.main-header {
+  background-color: black;
+  height: 90px;
+}
+
+.main-header img {
+  height: 40px;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.above-the-fold {
+  background-image: url("/images/banner.jpg");
+  height: 500px;
+  width: 500px;
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  text-align: center;
+}
+
+h1 {
+  color: #25a2c3;
+  font-size: 3rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  padding-top: 150px;
+  margin-bottom: 30px;
+}
+
+.above-the-fold p {
+  font-size: 1.4em;
+  text-align: center;
+  width: 90%;
+  line-height: 30px;
+  padding: 15px 23px 15px 23px;
+}
+
+button {
+  background-color: rgb(225, 93, 11);
+  border: none;
+  color: white;
+  letter-spacing: 0.1em;
+  font-size: 1.4em;
+  text-align: center;
+  height: 45px;
+  width: 170px;
+  border-radius: 6px;
+  margin-top: 30px;
+}
+
+.red-section {
+  background-color: #e22d0e;
+  color: white;
+  padding: 30px 10px 10px;
+}
