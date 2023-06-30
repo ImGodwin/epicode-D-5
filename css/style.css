@@ -80,5 +80,23 @@ button {
 
 /* article of the site  */
 
+.article-class {
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+
 h5 {
+  color: rgb(31, 164, 164);
+  font-size: 2em;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.image-2-container {
+  text-align: center;
+}
+.image-2 {
+  border-radius: 50%;
 }
