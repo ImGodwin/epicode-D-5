@@ -1,0 +1,38 @@
+/* Your styles here */
+
+/* goole fonts imported here */
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+/* font-family: 'Montserrat', sans-serif; */
+
+/* body  */
+body {
+  margin: 0px auto;
+  width: 500px;
+  font-family: open-sans;
+}
+
+body > div {
+  margin: 0 auto;
+}
+
+/* header  */
+
+header > div {
+  background-color: black;
+  align-items: center;
+}
+
+.image-class {
+  text-align: center;
+  height: 80px;
+}
+
+.image-class > img {
+  height: 40px;
+  margin: 20px 0px 0px 0px;
+}
+
+/* above the fold  */
